@@ -6,7 +6,7 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 
 **!! *Não coloque os nomes dos alunos no título do repositório*. !!**
 
-**!! *Exemplo de título correto: 2021.1_G1_ProjetoPandora*. !!** 
+**!! *Exemplo de título correto: 2021.2_G1_ProjetoPandora*. !!** 
  
  (Apague essa seção)
 
